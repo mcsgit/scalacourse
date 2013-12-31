@@ -2,15 +2,23 @@
 <section name="Workbench">
 	<section name="org.eclipse.jdt.debug.ui.MAIN_METHOD_SELECTION_DIALOG">
 		<item value="true" key="ShowStatusLine"/>
-		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;History&gt;&#x0D;&#x0A;&lt;historyRootNode/&gt;&#x0D;&#x0A;&lt;/History&gt;" key="History"/>
+		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;History&gt;&#x0D;&#x0A;&lt;historyRootNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=actorbintree/lib_managed\/jars\/com.typesafe.akka\/akka-actor_2.10\/akka-actor_2.10-2.2.3.jar&amp;lt;akka(Main.class[Main&lt;/infoNode&gt;&#x0D;&#x0A;&lt;/historyRootNode&gt;&#x0D;&#x0A;&lt;/History&gt;" key="History"/>
 		<section name="DialogBoundsSettings">
 			<item value="600" key="DIALOG_WIDTH"/>
 			<item value="-9" key="DIALOG_Y_ORIGIN"/>
-			<item value="500" key="DIALOG_HEIGHT"/>
 			<item value="100" key="DIALOG_X_ORIGIN"/>
+			<item value="500" key="DIALOG_HEIGHT"/>
 			<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
 		</section>
 	</section>
 	<section name="conditionHistory">
+		<item value="!w.isEmpty" key="conditionHistoryEntry_6"/>
+		<item value="7" key="conditionHistoryEntryCount"/>
+		<item value="l.isEmpty" key="conditionHistoryEntry_0"/>
+		<item value="l.isEmpty()==Nil" key="conditionHistoryEntry_1"/>
+		<item value="l.isEmpty()==false" key="conditionHistoryEntry_2"/>
+		<item value="l.isEmpty==false" key="conditionHistoryEntry_3"/>
+		<item value="occurrence==List((&apos;l&apos;,1),(&apos;o&apos;,1),(&apos;y&apos;,1))" key="conditionHistoryEntry_4"/>
+		<item value="occurence==List((&apos;l&apos;,1),(&apos;o&apos;,1),(&apos;y&apos;,1))" key="conditionHistoryEntry_5"/>
 	</section>
 </section>
